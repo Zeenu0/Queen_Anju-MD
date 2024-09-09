@@ -4,10 +4,10 @@
 <img src = "https://imgtr.ee/images/2024/09/08/8e383f8918878bfc0512b2f05a81fdaa.jpeg"  width="540" height="300">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+ANJU+WHATSAPP+BOT+MD+V2" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=AMMU+AMAAN+WHATSAPP+BOT+MD+V2" alt="">
 </p>
     <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-AMMU_EDITZ-red.svg?style=for-the-badge&logo=github"></a>
 
 ### Please Read !
 Queen Anju is a whatsapp bot created by Gaming rash ( Janith Rashmika ) using baileys web api. Do not use this bot in a way that will cause trouble to others. 
